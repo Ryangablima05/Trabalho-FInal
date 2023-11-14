@@ -72,6 +72,12 @@ body {
           transform: translateX(-50%);
 }
 
+.linha{
+  width:80%;
+  align-items: center;
+  display: flex;
+  border-bottom: 1px solid #f1db25;
+}
 /*header section*/
 .hero_area {
   min-height: 100vh;
